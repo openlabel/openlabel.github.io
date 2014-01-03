@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Welcome!
-cover: cover.jpg
+title: Welcome
+cover: cover.png
 date:   2013-12-10 12:00:00
 categories: posts
 ---
 
-## First Post
-
-Welcome to the OpenLabel blog!
+## Welcome to the OpenLabel blog.
