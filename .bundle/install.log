@@ -1,0 +1,27 @@
+# Logfile created on 2014-01-03 14:58:34 -0800 by logger.rb/36483
+I, [2014-01-03T14:58:34.552046 #9417]  INFO -- : 0:  RedCloth (4.2.9) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/RedCloth-4.2.9.gemspec
+I, [2014-01-03T14:58:34.552564 #9417]  INFO -- : 0:  blankslate (2.1.2.4) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/blankslate-2.1.2.4.gemspec
+I, [2014-01-03T14:58:34.552847 #9417]  INFO -- : 0:  fast-stemmer (1.0.2) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/fast-stemmer-1.0.2.gemspec
+I, [2014-01-03T14:58:34.553113 #9417]  INFO -- : 0:  classifier (1.3.4) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/classifier-1.3.4.gemspec
+I, [2014-01-03T14:58:34.553365 #9417]  INFO -- : 0:  colorator (0.1) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/colorator-0.1.gemspec
+I, [2014-01-03T14:58:34.553616 #9417]  INFO -- : 0:  highline (1.6.20) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/highline-1.6.20.gemspec
+I, [2014-01-03T14:58:34.553870 #9417]  INFO -- : 0:  commander (4.1.5) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/commander-4.1.5.gemspec
+I, [2014-01-03T14:58:34.554146 #9417]  INFO -- : 0:  ffi (1.9.3) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/ffi-1.9.3.gemspec
+I, [2014-01-03T14:58:34.554424 #9417]  INFO -- : 0:  liquid (2.5.4) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/liquid-2.5.4.gemspec
+I, [2014-01-03T14:58:34.554680 #9417]  INFO -- : 0:  rb-fsevent (0.9.4) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/rb-fsevent-0.9.4.gemspec
+I, [2014-01-03T14:58:34.554931 #9417]  INFO -- : 0:  rb-inotify (0.9.3) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/rb-inotify-0.9.3.gemspec
+I, [2014-01-03T14:58:34.555183 #9417]  INFO -- : 0:  rb-kqueue (0.2.0) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/rb-kqueue-0.2.0.gemspec
+I, [2014-01-03T14:58:34.555430 #9417]  INFO -- : 0:  listen (1.3.1) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/listen-1.3.1.gemspec
+I, [2014-01-03T14:58:34.555681 #9417]  INFO -- : 0:  maruku (0.7.0) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/maruku-0.7.0.gemspec
+I, [2014-01-03T14:58:34.555929 #9417]  INFO -- : 0:  posix-spawn (0.3.8) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/posix-spawn-0.3.8.gemspec
+I, [2014-01-03T14:58:34.556179 #9417]  INFO -- : 0:  yajl-ruby (1.1.0) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/yajl-ruby-1.1.0.gemspec
+I, [2014-01-03T14:58:34.556425 #9417]  INFO -- : 0:  pygments.rb (0.5.4) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/pygments.rb-0.5.4.gemspec
+I, [2014-01-03T14:58:34.556686 #9417]  INFO -- : 0:  redcarpet (2.3.0) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/redcarpet-2.3.0.gemspec
+I, [2014-01-03T14:58:34.556935 #9417]  INFO -- : 0:  safe_yaml (0.9.7) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/safe_yaml-0.9.7.gemspec
+I, [2014-01-03T14:58:34.557181 #9417]  INFO -- : 0:  parslet (1.5.0) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/parslet-1.5.0.gemspec
+I, [2014-01-03T14:58:34.557427 #9417]  INFO -- : 0:  toml (0.1.0) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/toml-0.1.0.gemspec
+I, [2014-01-03T14:58:34.557699 #9417]  INFO -- : 0:  jekyll (1.4.2) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/jekyll-1.4.2.gemspec
+I, [2014-01-03T14:58:35.789952 #9417]  INFO -- : 0:  kramdown (1.2.0) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/kramdown-1.2.0.gemspec
+I, [2014-01-03T14:58:39.057634 #9417]  INFO -- : 0:  rdiscount (2.1.7) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/rdiscount-2.1.7.gemspec
+I, [2014-01-03T14:58:39.722556 #9417]  INFO -- : 0:  github-pages (12) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/github-pages-12.gemspec
+I, [2014-01-03T14:58:39.722929 #9417]  INFO -- : 0:  bundler (1.5.1) from /Users/nudge/.rvm/gems/ruby-2.0.0-p0/specifications/bundler-1.5.1.gemspec
