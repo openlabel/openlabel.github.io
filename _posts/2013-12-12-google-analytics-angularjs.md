@@ -28,7 +28,7 @@ This trips up Google Analytics, which typically tracks page views with a script 
 
 But in a single page appplication, this script only gets executed once when the page downloads.  No good.
 
-Fortunately we fix this by hooking up some code to the AngularJS $routeChangeSuccess event and fire the ga() tracking code from there. The code can be wrapped up neatly in a directive:
+Fortunately we can fix this by hooking up some code to the AngularJS $routeChangeSuccess event and fire the ga() tracking code from there. The code can be wrapped up neatly in a directive:
 
 {% highlight javascript %}
 app.directive('analytics', ['$rootScope', '$location',
