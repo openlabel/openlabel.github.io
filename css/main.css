@@ -17,6 +17,7 @@ html, body {
 
 body {
   color: #333;
+  background-color: rgb(39, 40, 34);
   background-color: #fafbfc;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 400;
@@ -137,6 +138,7 @@ a:hover {
   margin-bottom: 0.35em;
   font-size: 3.5em;
   text-transform: uppercase;
+  line-height: 90%;
 }
 
 .post {
@@ -162,9 +164,14 @@ a:hover {
 
 /* standard */
 .post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
+  /*border: 1px solid #ddd;*/
+  /*background-color: #eef;*/
+  background-color: rgb(39, 40, 34);
+  padding: .8em .8em;
+  line-height: 1.6em;
+  letter-spacing: -0.12em;
+  font-size: 0.9em;
+  margin-bottom: 1.7em;
 }
 
 .post p {
@@ -181,23 +188,28 @@ a:hover {
 
 .post code {
   border: 1px solid #ddd;
-  background-color: #eef;
+  /*background-color: #eef;*/
+  background-color: rgb(39, 40, 34);
   padding: 0 .2em;
 }
 
 .post pre code {
+  font-family: "Lucida Console", "Monaco", monospace;
+  font-weight: bold;
   border: none;
 }
 
 /* terminal */
 .post pre.terminal {
   border: 1px solid #000;
-  background-color: #333;
+  /*background-color: #333;*/
+  background-color: rgb(39, 40, 34);
   color: #FFF;
 }
 
 .post pre.terminal code {
-  background-color: #333;
+  /*background-color: #333;*/
+  background-color: rgb(39, 40, 34);
 }
 
 /*****************************************************************************/
