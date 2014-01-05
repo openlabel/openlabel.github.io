@@ -50,9 +50,7 @@ and attached to the page like so:
 <body ng-app="myApp" analytics>
 {% endhighlight %}
 
-
-Wallah! Your visitors will now be tracked throughout your single page application.
-
+Viola! Your visitors will now be tracked throughout your single page application.
 
 ## Prevent double counting index views
 
